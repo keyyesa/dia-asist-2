@@ -1,0 +1,30 @@
+SAMPLE PLACEHOLDER DOCUMENT — Global Diabetes Context Notes
+(This is demo content for testing the pipeline, not an official WHO publication.
+Replace with real WHO diabetes guideline/fact-sheet PDFs for production/academic use.)
+
+Global Burden
+Diabetes prevalence has risen substantially worldwide over recent decades, driven
+by population aging, urbanization, and increases in overweight and obesity. Type 2
+diabetes accounts for the large majority of diabetes cases globally, while type 1
+diabetes results from autoimmune destruction of insulin-producing cells and
+typically requires lifelong insulin therapy.
+
+Prevention
+Population-level prevention strategies for type 2 diabetes commonly emphasize
+promoting physical activity, healthy diet, and maintaining a healthy body weight,
+along with policies that support access to affordable nutritious food and safe
+spaces for physical activity. Early identification of prediabetes allows for
+lifestyle intervention that can reduce or delay progression to type 2 diabetes.
+
+Access to Care
+Equitable access to affordable diagnostics (such as blood glucose and HbA1c
+testing), essential medicines (including insulin and oral glucose-lowering
+agents), and trained healthcare workers is considered essential to reducing the
+global burden of diabetes-related complications and mortality, particularly in
+low- and middle-income settings.
+
+Patient Education
+Patient education on self-management -- including recognizing signs of
+hypoglycemia and hyperglycemia, proper medication use, foot care, and the
+importance of regular follow-up -- is emphasized as a key component of reducing
+diabetes-related complications at the population level.

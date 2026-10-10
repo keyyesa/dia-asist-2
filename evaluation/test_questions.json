@@ -1,0 +1,34 @@
+[
+  {
+    "question": "What HbA1c level indicates diabetes according to clinical guidelines?",
+    "expected_keywords": ["HbA1c", "6.5"]
+  },
+  {
+    "question": "What fasting blood glucose level is considered prediabetes?",
+    "expected_keywords": ["fasting", "100", "125"]
+  },
+  {
+    "question": "What lifestyle changes are recommended for managing type 2 diabetes?",
+    "expected_keywords": ["physical activity", "diet", "weight"]
+  },
+  {
+    "question": "What is a reasonable target HbA1c for most adults with diabetes?",
+    "expected_keywords": ["7", "HbA1c"]
+  },
+  {
+    "question": "What complications can result from poorly controlled diabetes?",
+    "expected_keywords": ["retinopathy", "nephropathy", "neuropathy", "cardiovascular"]
+  },
+  {
+    "question": "How often should HbA1c be tested to monitor glycemic control?",
+    "expected_keywords": ["3", "6", "months"]
+  },
+  {
+    "question": "What does elevated urine albumin indicate in a diabetes patient?",
+    "expected_keywords": ["kidney", "albumin", "microalbuminuria"]
+  },
+  {
+    "question": "What is often recommended as the first pharmacologic agent for type 2 diabetes?",
+    "expected_keywords": ["metformin"]
+  }
+]

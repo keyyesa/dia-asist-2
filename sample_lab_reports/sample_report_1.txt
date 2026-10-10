@@ -1,0 +1,11 @@
+Patient Lab Report (De-identified Sample)
+Test Date: 2026-01-10
+
+HbA1c: 7.8 %
+Fasting Blood Glucose (FBG): 142 mg/dL
+Random Blood Glucose (RBG): 210 mg/dL
+Serum Creatinine: 1.1 mg/dL
+Urine Albumin: 45 mg/g
+LDL: 130 mg/dL
+HDL: 42 mg/dL
+Triglycerides: 180 mg/dL

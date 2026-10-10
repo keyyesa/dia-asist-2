@@ -1,0 +1,35 @@
+
+
+
+
+
+
+
+
+El	hello@flabs.in
++91 7619837301
+
+(:) Plot No-20, Knowledge Park 2,IIT Roorkee Extension Centre, Tides Incubator, Greater Nolda
+
+
+
+Name Age/Gender Referred By Phone No.
+
+Mr. Ayush
+23 Years/Male Self 6397228160
+
+Patient ID Report ID Collection Date Report Date
+
+240329001
+RE378
+03/05/2024 10:41 AM
+03/05/2024 10:43 AM
+
+
+
+
+    BIOCHEMISTRY HBA1C / GLYCOSYLATED
+TEST DESCRIPTIONRESULTFLAGREF. RANGEUNITHbAlC54.0- 6.0%Estimated Average Glucose96.8090 -120mg/dl
+Interpretation:
+HbA1C %Result>8%Action Suggested7-8%Good Control<7%Goal6-7%Near Normal Glycemia<6%Normal level
+~~End of report~~

@@ -1,0 +1,54 @@
+SAMPLE PLACEHOLDER DOCUMENT — General Diabetes Management Overview
+(This is demo content for testing the pipeline, not an official guideline document.
+Replace with the real ADA Standards of Care PDF for production/academic use.)
+
+Diagnostic Criteria
+Diabetes is generally diagnosed using one of the following measures: a fasting
+blood glucose (FBG) of 126 mg/dL or higher, a 2-hour plasma glucose of 200 mg/dL
+or higher during an oral glucose tolerance test (OGTT), a random blood glucose
+(RBG) of 200 mg/dL or higher together with classic symptoms, or an HbA1c of 6.5%
+or higher. Prediabetes is generally indicated by an FBG of 100-125 mg/dL, an OGTT
+2-hour value of 140-199 mg/dL, or an HbA1c of 5.7-6.4%.
+
+Glycemic Targets
+For most non-pregnant adults with diabetes, a reasonable HbA1c target is below
+7.0%, though targets are individualized based on age, comorbidities, risk of
+hypoglycemia, and disease duration. Less stringent targets (for example below
+8.0%) may be appropriate for patients with limited life expectancy or extensive
+comorbid conditions.
+
+Lifestyle Management
+Lifestyle intervention is a cornerstone of diabetes management. This typically
+includes structured nutrition guidance, regular physical activity (commonly at
+least 150 minutes per week of moderate-intensity activity), weight management
+where appropriate, and smoking cessation support. Diabetes self-management
+education and support programs are associated with improved glycemic control.
+
+Pharmacologic Management
+Metformin is commonly recommended as an initial pharmacologic agent for type 2
+diabetes in the absence of contraindications, alongside lifestyle modification.
+Additional agents (such as SGLT2 inhibitors, GLP-1 receptor agonists, DPP-4
+inhibitors, sulfonylureas, or insulin) may be added based on individual factors
+including cardiovascular and renal risk, hypoglycemia risk, weight considerations,
+and cost.
+
+Monitoring
+Regular HbA1c testing (typically every 3-6 months depending on control and
+treatment changes) is recommended to assess long-term glycemic control.
+Self-monitoring of blood glucose may be recommended for patients on insulin
+therapy or those at risk of hypoglycemia.
+
+Complications and Screening
+Chronic hyperglycemia is associated with microvascular complications (retinopathy,
+nephropathy, neuropathy) and macrovascular complications (cardiovascular disease,
+stroke, peripheral artery disease). Regular screening is recommended, including
+annual dilated eye exams, annual urine albumin and serum creatinine testing to
+assess kidney function, and periodic foot examinations. Lipid profile monitoring
+and cardiovascular risk assessment are also part of routine diabetes care.
+
+Kidney Function Markers
+Serum creatinine and urine albumin (or albumin-to-creatinine ratio) are commonly
+used to screen for diabetic kidney disease. Elevated urine albumin
+(microalbuminuria: roughly 30-300 mg/g; macroalbuminuria: above 300 mg/g) can be
+an early indicator of kidney involvement and warrants closer monitoring and, where
+appropriate, treatment adjustment (e.g., ACE inhibitors or ARBs, SGLT2 inhibitors).

@@ -1,0 +1,11 @@
+__pycache__/
+*.pyc
+.env
+knowledge_base/faiss_index/*
+!knowledge_base/faiss_index/.gitkeep
+.streamlit/secrets.toml
+*.egg-info/
+.venv/
+venv/
+evaluation/results.csv
+*.tmp
